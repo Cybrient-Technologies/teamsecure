@@ -43,4 +43,4 @@ This repository is licensed under the MIT License.
 
 ## Thanks
 Shout out to the following partners for their support.
-[![TeamSecure](https://teamsecure.io/dist/img/logo.png)](https://teamsecure.io/)
+[![TeamSecure](https://teamsecure.io/dist/img/logo.small.png)](https://teamsecure.io/)
