@@ -21,8 +21,7 @@ THE SCRIPTS AND DOCUMENTATION IN THIS DIRECTORY ARE PROVIDED "AS IS" WITHOUT WAR
 ## Usage
 Clone the repository to your Linux machine.
 
-```
-git clone [repository-link]```
+```git clone [repository-link]```
 
 Navigate to the desired category.
 
