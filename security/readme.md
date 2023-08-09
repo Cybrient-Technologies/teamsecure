@@ -6,7 +6,7 @@ This directory contains a collection of Bash scripts tailored for enhancing and 
 
 THE SCRIPTS AND DOCUMENTATION IN THIS DIRECTORY ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. USE THESE SCRIPTS AT YOUR OWN RISK. IN NO EVENT SHALL WE BE LIABLE FOR ANY DAMAGES WHATSOEVER ARISING OUT OF THE USE OF OR INABILITY TO USE THESE SCRIPTS.
 
-## Table of Contents
+## Table of Contents 
 
 - [Available Scripts](#available-scripts)
 - [Usage](#usage)
@@ -21,8 +21,7 @@ THE SCRIPTS AND DOCUMENTATION IN THIS DIRECTORY ARE PROVIDED "AS IS" WITHOUT WAR
 ## Usage
 Clone the repository to your Linux machine.
 
-```
-git clone [repository-link]```
+```git clone [repository-link]```
 
 Navigate to the desired category.
 
@@ -44,4 +43,4 @@ This repository is licensed under the MIT License.
 
 ## Thanks
 Shout out to the following partners for their support.
-[![TeamSecure](https://teamsecure.io/dist/img/logo.png)](https://teamsecure.io/)
+[![TeamSecure](https://teamsecure.io/dist/img/logo.small.png?01)](https://teamsecure.io/)

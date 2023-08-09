@@ -38,8 +38,7 @@ ban_high_confidence_abusers.sh: Bans IP addresses with high abuse confidence sco
 ## Usage
 Clone the repository to your Linux machine.
 
-```
-git clone [repository-link]```
+```git clone [repository-link]```
 
 Navigate to the desired category.
 
@@ -61,4 +60,4 @@ This repository is licensed under the MIT License.
 
 ## Thanks
 Shout out to the following partners for their support.
-[![TeamSecure](https://teamsecure.io/dist/img/logo.png)](https://teamsecure.io/)
+[![TeamSecure](https://teamsecure.io/dist/img/logo.small.png?01)](https://teamsecure.io/)
