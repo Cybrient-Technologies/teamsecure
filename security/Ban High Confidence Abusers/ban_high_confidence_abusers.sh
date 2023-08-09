@@ -8,7 +8,7 @@ ssh_client_ip=$(echo $SSH_CLIENT | awk '{print $1}')
 secure_ips=$(grep -oP '([0-9]{1,3}\.){3}[0-9]{1,3}' /var/log/secure | sort -u)
 
 # Remove the server and your IP from the list
-secure_ips=$(echo "$secure_ips" | grep -v -e "$server_ip" -e "$ssh_client_ip" -e "^162\.243\.")
+secure_ips=$(echo "$secure_ips" | grep -v -e "$server_ip" -e "$ssh_client_ip")
 
 # Extract banned IPs from firewall-cmd
 banned_ips=$(firewall-cmd --list-rich-rules | grep -oP '([0-9]{1,3}\.){3}[0-9]{1,3}' | sort -u)
